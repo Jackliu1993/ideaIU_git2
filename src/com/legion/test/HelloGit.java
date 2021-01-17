@@ -9,6 +9,7 @@ public class HelloGit {
         System.out.println(HelloGit.class.getName()+"=======================");
         System.out.println(new HelloGit());
         System.out.println(new HelloGit2());
+        System.out.println(new HelloGit3());
     }
 
     @Override
